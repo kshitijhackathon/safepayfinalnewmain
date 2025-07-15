@@ -14,7 +14,7 @@ SafePay is a comprehensive security platform that uses AI/ML to protect users fr
 
 Watch the full demo of SafePay in action:
 
-[![Watch the Demo on YouTube](https://youtu.be/iIcMu-H2q9s?si=1h5h4VzrtPoUri4K)
+[Watch the Demo on YouTube](https://youtu.be/iIcMu-H2q9s?si=1h5h4VzrtPoUri4K)
 
 ## 📑 Project Presentation (PPT)
 
