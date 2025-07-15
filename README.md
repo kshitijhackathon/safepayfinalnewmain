@@ -101,7 +101,7 @@ Safepay/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/safepay.git
+git clone https:/kshitijhackathon/github.com//safepayfinalnewmain
 cd safepay
 ```
 
